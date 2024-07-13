@@ -1,0 +1,21 @@
+.navbarcolor{
+   background-color: black !important;
+   
+} 
+body{
+    background-color:black !important;
+    min-height: 100%;
+   
+
+}
+.navbarcolor a,h1,hr,p,h5{
+    color:#FFD700 !important;
+}
+.card:hover{
+    
+    opacity: 0.7;
+    cursor: pointer;
+}
+.datesize{
+    font-size: 15px;
+}
